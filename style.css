@@ -181,3 +181,8 @@ form.chat-input input[type="submit"].sent-indicator {
 form.chat-input input[type="submit"].sending {
     animation: send-indicator 0.9s ease-out 0s;
 }
+
+.footer{
+	text-align : right;
+	color:green;
+}
