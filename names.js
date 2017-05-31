@@ -6,17 +6,12 @@ function sillyname() {
     function rnd(n) { return Math.floor(Math.random()*n) }
 
     // First Name
-    return ["Runny","Buttercup","Dinky","Princess","Crusty",
-    "Greasy","Gidget","Cheesypoof","Lumpy","Wacky","Tiny","Flunky",
-    "Fluffy","Zippy","Doofus","Gobsmacked","Slimy","Grimy","Salamander",
-    "Dr","Burrito","Bumpy","Loopy",
-    "Snotty","Irving","Egbert"][rnd(25)] +
+    return ["Himanshu","Shivani","Mohit","Chanki","Saurabh",
+    "Pooja","Shikha","Gaurav","Deepak","Ashok","Rishabh","Manoj",
+    "Pappu","Shivam","Karan","Deepali","Jyoti","Deepa","Narendra",
+    "Dr","Lokendra","Kripal","Rajendra",
+    "Advitiya","Kirti","Manvendra"][rnd(25)] +
 
     // Last Name
-    ["Waffer","Lilly","Bubblegum","Sand","Fuzzy","Kitty",
-    "Puppy","Snuggles","SpacePrincess","Stinky","Lulu",
-    "Lala","Sparkle","Glitter",
-    "Silver","Golden","Rainbow","Cloud",
-    "Rain","Stormy","Wink","Sugar",
-    "Twinkle","Star","Halo","Angel"][rnd(25)];
+    ["Sharma","Panday","Gautam","Saxena","Varshney","Chaturvedy","Goyal","Shrivastav","Gaud","Singh","jain","Bhardwaj"][rnd(25)];
 }
