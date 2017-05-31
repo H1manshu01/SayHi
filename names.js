@@ -13,5 +13,6 @@ function sillyname() {
     "Advitiya","Kirti","Manvendra"][rnd(25)] +
 
     // Last Name
-    ["Sharma","Panday","Gautam","Saxena","Varshney","Chaturvedy","Goyal","Shrivastav","Gaud","Singh","jain","Bhardwaj"][rnd(25)];
+    ["Sharma","Panday","Gautam","Saxena","Varshney","Chaturvedy","Goyal","Shrivastav","Gaud","Singh","jain","Bhardwaj",
+	"Sharma","Panday","Gautam","Saxena","Varshney","Chaturvedy","Goyal","Shrivastav","Gaud","Singh","jain","Bhardwaj"][rnd(25)];
 }
